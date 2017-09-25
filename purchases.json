@@ -1,0 +1,35 @@
+{
+    "customers": {
+            "0": {
+                "userId": "5970ebc6a73e4942cdafd97c",
+                "accountId": "5970f857ceb8abe242518139"
+            },
+            "1": {
+                "userId": "5970ebc7a73e4942cdafd97d",
+                "accountId": "5970ebc8a73e4942cdafd97f"
+            },
+            "2": {
+                "userId": "5970ebc7a73e4942cdafd97e",
+                "accountId": "5970ebc8a73e4942cdafd981"
+            }
+    },
+    "merchants": {
+        "recordLabels": {
+            "recordLabel1": {
+                "merchantId": "5970f46eceb8abe242518137"
+            },
+            "recordLabel2": {
+                "merchantId": "59713e72ceb8abe242518140"
+            }
+        },
+        "artists": {
+            "artist1": {
+                "merchantId": "5970f493ceb8abe242518138"
+            },
+            "artist2": {
+                "merchantId": "59713ef7ceb8abe242518141"
+            }
+        }
+    },
+    "apiKey": "ae3948720ac1bac858b08c3c5c932dff"
+}

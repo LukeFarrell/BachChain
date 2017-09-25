@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+}
+.title {
+  margin-bottom: 15px;
+}
+.search {
+  margin: 0 auto;
+  width:80%;
+}
+td {
+  text-align: left;
+}
+.footer {
+  text-align: right;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  font-size: 0.75rem;
+}
+
+.footer a:hover {
+  text-decoration: none;
+}
